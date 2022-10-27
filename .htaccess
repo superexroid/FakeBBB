@@ -1,5 +1,1 @@
 ErrorDocument 404 /404.htm
-
-RewriteEngine on
-RewriteCond %{REQUEST_URI} index
-RewriteRule ^ /404 [L,R]
