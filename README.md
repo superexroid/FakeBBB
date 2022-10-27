@@ -17,7 +17,7 @@ to
 
 <Directory /var/www/>
         Options FollowSymLinks
-        AllowOverride None
+        AllowOverride All
         Require all granted
 </Directory>
 *******
